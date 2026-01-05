@@ -31,13 +31,6 @@ class society:
 
         self.menu()
 
-    
-
-
-
-
-
-
 obj=society()
 
 

@@ -1,0 +1,10 @@
+As soon as obj is created the __init__ method is called automatically.
+
+Everything in python is an object (data structure, data type).
+
+advantages of oops:
+1. create custom data type
+2. code reusability
+3. debugging
+4. easy to collab
+

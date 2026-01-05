@@ -24,5 +24,15 @@ print(obj.email)
 
 6)self refers to the current instance of the class
 
+7)Inheritance: 
 
+#Constructor overriding:
+
+when the child has no __init__, inherit from parent else use child __init__.
+
+#Method overloading
+
+call child method if both methods with same name and attributes in parent and child.
+
+super:
 

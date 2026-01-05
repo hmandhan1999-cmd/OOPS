@@ -36,3 +36,4 @@ call child method if both methods with same name and attributes in parent and ch
 
 super:
 
+call method with super(), can not call attributes/data
